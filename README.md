@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 #define MEMORY_SIZE 1024
 #define REGISTER_COUNT 8
 
